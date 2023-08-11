@@ -1,4 +1,4 @@
-Exercicio desenvolvido para o trabalho 2 da cadeira de Algoritmo e Estrutura de Dados
+Exercicio desenvolvido para o trabalho 2 da cadeira de Algoritmos e Estruturas de Dados
 
 # T2 Alest
 tem como objetivo modelar e implementar um sistema de consultas sobre as placas de sinalização de trânsito de Porto Alegre usando estruturas encadeadas. Para isso, inicialmente, deve ser feita a leitura de um arquivo contendo informações sobre as sinalizaçõoes, para posteriormente serem implementadas diferentes consultas sobre estas sinalizaçõoes
